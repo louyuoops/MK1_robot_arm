@@ -7,4 +7,4 @@ Refer to the following video for assembly:
 
 During the fabrication process, I utilized a PS2 joystick to control the rotation, forward and backward movements, as well as lifting and lowering of the robotic arm. The red button is used to operate the gripper, the black button is used to release the gripper, and the blue button assists in the lifting and lowering actions.
 [![Alt text](./imgs/mk1_robot_arm.png)]()    
-In this project, I employed an ESP32 development board, a 16-channel servo controller (using multiple servo controllers with ESP32 always led to issues), and a 5V power supply module. I experimented with various power supply and voltage regulation modules and found that only the one I used proved to be stable.   
+In this project, I employed an ESP32 development board, a 16-channel servo controller (using multiple servos with ESP32 always led to issues), and a 5V power supply module. I experimented with various power supply and voltage regulation modules and found that only the one I used proved to be stable.   
